@@ -24,7 +24,7 @@ import xml.etree.ElementTree as ET
 
 # Replace with your actual Gemini API key
 # You'll need to set your API key manually:
-genai.configure(api_key="AIzaSyA7hx_Cv99k5aSOyvI1IJMjLCEl74E_0v0")
+genai.configure(api_key="Google_API")
 
 # for m in genai.list_models():
 #     print(f"Name: {m.name}, Methods: {m.supported_generation_methods}")
