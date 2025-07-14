@@ -13,7 +13,7 @@ import re
 from datetime import timedelta
 
 file_name = 'KHAF2-Jun-22-2025-1930Z.mp3'  # Change this to your audio file
-whisper_type = "large-v2"  # Options: tiny, base, small, medium, large-v1, large-v2
+whisper_type = "large-v3"  # Options: tiny, base, small, medium, large-v1, large-v2
 
 # Set UTF-8 encoding
 locale.getpreferredencoding = lambda: "UTF-8"
