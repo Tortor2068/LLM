@@ -15,7 +15,7 @@ lon = -122.370
 bbox = (lat - 0.2, lat + 0.2, lon - 0.2, lon + 0.2)
 
 # Authenticate (recommended for more results)
-api = OpenSkyApi("Tor", "tootSocks2068")
+api = OpenSkyApi("Tor", "Tabletdarrell1")
 
 
 if datetime.strip():
